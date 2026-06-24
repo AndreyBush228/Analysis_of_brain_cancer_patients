@@ -1,0 +1,5 @@
+,SampleID,Disease_Name,Dataset_ID,TCGA subtype,Gender,Histology,TP53
+count,325,325,325,325,325,325,119
+unique,325,1,1,4,2,14,28
+top,CGGA_1001,GBM,CGGA,Proneural,M,GBM,0
+freq,1,325,325,102,203,88,92

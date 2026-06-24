@@ -1,0 +1,7 @@
+gene,mutated_count,mutated_percent,wild_type_count,wild_type_percent
+IDH,171.0,52.62,154.0,47.38
+PTEN,13392.0,4120.62,-13067.0,-4020.62
+EGFR,110.0,33.85,215.0,66.15
+ATRX,33.0,10.15,292.0,89.85
+IDH1-DNA,152.0,46.77,173.0,53.23
+IDH2-DNA,6.0,1.85,319.0,98.15

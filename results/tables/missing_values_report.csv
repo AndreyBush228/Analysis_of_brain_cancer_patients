@@ -1,0 +1,25 @@
+column,missing_count,missing_percent
+TP53,206,63.38
+PTEN,206,63.38
+Chemo,39,12.0
+Radio,29,8.92
+IDH1-DNA,25,7.69
+IDH2-DNA,25,7.69
+OS,15,4.62
+"Censor (1=dead,0=alive)",15,4.62
+SampleID,0,0.0
+Disease_Name,0,0.0
+Dataset_ID,0,0.0
+TCGA subtype,0,0.0
+Batch,0,0.0
+Gender,0,0.0
+Age,0,0.0
+Histology,0,0.0
+Grade,0,0.0
+IDH(DNA&RNA),0,0.0
+IDH1-R32,0,0.0
+IDH2-R172,0,0.0
+TP53.1,0,0.0
+EGFR,0,0.0
+ATRX,0,0.0
+EZH2,0,0.0
