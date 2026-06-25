@@ -5,18 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9881098-652b-4da5-8472-cf4f3160143a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Brain.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/01_check_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/02_basic_eda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/03_prepare_clean_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/04_prepare_yandex_tables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/05_cox_analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/research/init.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/research/01_check_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/research/01_check_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/research/02_basic_eda.py" beforeDir="false" afterPath="$PROJECT_DIR$/research/02_basic_eda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/figures/age_distribution.png" beforeDir="false" afterPath="$PROJECT_DIR$/results/figures/age_distribution.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/figures/age_vs_survival.png" beforeDir="false" afterPath="$PROJECT_DIR$/results/figures/age_vs_survival.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/figures/correlation_matrix.png" beforeDir="false" afterPath="$PROJECT_DIR$/results/figures/correlation_matrix.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/figures/dashboard_overview.png" beforeDir="false" afterPath="$PROJECT_DIR$/results/figures/dashboard_overview.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/figures/mutation_frequency.png" beforeDir="false" afterPath="$PROJECT_DIR$/results/figures/mutation_frequency.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/figures/patient_status_pie.png" beforeDir="false" afterPath="$PROJECT_DIR$/results/figures/patient_status_pie.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/figures/survival_by_grade.png" beforeDir="false" afterPath="$PROJECT_DIR$/results/figures/survival_by_grade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/figures/survival_by_idh.png" beforeDir="false" afterPath="$PROJECT_DIR$/results/figures/survival_by_idh.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/figures/survival_by_subtype.png" beforeDir="false" afterPath="$PROJECT_DIR$/results/figures/survival_by_subtype.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/figures/survival_distribution.png" beforeDir="false" afterPath="$PROJECT_DIR$/results/figures/survival_distribution.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/tables/correlation_matrix.csv" beforeDir="false" afterPath="$PROJECT_DIR$/results/tables/correlation_matrix.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,17 +58,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.01_check_data.executor": "Run",
-    "Python.02_basic_eda.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.01_check_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_basic_eda.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python.01_check_data">
+}</component>
+  <component name="RunManager" selected="Python.02_basic_eda">
     <configuration name="01_check_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Brain" />
       <option name="ENV_FILES" value="" />
@@ -113,8 +115,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01_check_data" />
         <item itemvalue="Python.02_basic_eda" />
+        <item itemvalue="Python.01_check_data" />
       </list>
     </recent_temporary>
   </component>
