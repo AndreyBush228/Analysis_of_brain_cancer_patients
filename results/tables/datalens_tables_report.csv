@@ -1,0 +1,10 @@
+table_name,rows,columns
+patient_listings.csv,310,35
+survival_by_grade.csv,3,12
+survival_by_idh.csv,2,11
+survival_by_gender.csv,2,11
+survival_by_subtype.csv,4,11
+survival_by_mutation.csv,2,11
+survival_by_age_group.csv,5,11
+mutation_frequency.csv,6,2
+clinical_kpi.csv,24,2

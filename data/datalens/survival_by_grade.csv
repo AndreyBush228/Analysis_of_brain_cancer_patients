@@ -1,0 +1,4 @@
+Grade,patient_count,median_os,mean_os,min_os,max_os,deaths,alive,death_rate_pct,alive_rate_pct,median_os_years,grade_label
+2.0,105,1211.0,1251.49,21.0,2491.0,15.0,90,14.29,85.71,3.32,Grade 2
+3.0,67,609.0,783.07,29.0,2417.0,35.0,32,52.24,47.76,1.67,Grade 3
+4.0,138,286.5,396.59,33.0,2072.0,92.0,46,66.67,33.33,0.78,Grade 4

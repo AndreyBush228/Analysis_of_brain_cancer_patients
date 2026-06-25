@@ -1,0 +1,5 @@
+TCGA subtype,patient_count,median_os,mean_os,min_os,max_os,deaths,alive,death_rate_pct,alive_rate_pct,median_os_years
+Classical,70,373.5,486.31,34.0,1654.0,42.0,28,60.0,40.0,1.02
+Mesenchymal,65,271.0,364.85,29.0,1872.0,49.0,16,75.38,24.62,0.74
+Neural,76,1202.5,1262.72,116.0,2491.0,17.0,59,22.37,77.63,3.29
+Proneural,99,667.0,857.35,21.0,2486.0,34.0,65,34.34,65.66,1.83
