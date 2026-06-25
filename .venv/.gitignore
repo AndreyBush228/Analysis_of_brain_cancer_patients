@@ -1,0 +1,17 @@
+.venv/
+venv/
+env/
+
+.idea/
+*.iml
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+results/
+output/
+
+.DS_Store
+Thumbs.db
